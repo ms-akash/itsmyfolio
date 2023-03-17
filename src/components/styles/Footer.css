@@ -1,0 +1,11 @@
+.logo-footer{
+    font-size: 25px;
+    font-weight: 300;
+}
+.foot{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: darkorchid;
+    padding : 1rem;
+}
