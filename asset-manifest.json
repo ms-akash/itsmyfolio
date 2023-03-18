@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/itsmyfolio/static/css/main.a8f62500.css",
+    "main.js": "/itsmyfolio/static/js/main.f8480ff5.js",
+    "static/js/787.ffc67994.chunk.js": "/itsmyfolio/static/js/787.ffc67994.chunk.js",
+    "static/media/mysql.png": "/itsmyfolio/static/media/mysql.167c88550478e6f0f85c.png",
+    "static/media/mongodb.png": "/itsmyfolio/static/media/mongodb.2f81ed7ec1fd818da1b5.png",
+    "static/media/html.png": "/itsmyfolio/static/media/html.1d7b133e22ffe4829da6.png",
+    "static/media/BS.png": "/itsmyfolio/static/media/BS.291664f03e7f7fd1eeed.png",
+    "static/media/node.png": "/itsmyfolio/static/media/node.457fee1e62911df9d399.png",
+    "static/media/css.png": "/itsmyfolio/static/media/css.9f33c557b92e4e2e1cc8.png",
+    "static/media/bootstrap.png": "/itsmyfolio/static/media/bootstrap.d5210cdeab1bc94309c4.png",
+    "static/media/PSM.png": "/itsmyfolio/static/media/PSM.66b4cbeb71c8d6f193eb.png",
+    "static/media/java.png": "/itsmyfolio/static/media/java.5d5cffa04d820ba0644c.png",
+    "static/media/js.png": "/itsmyfolio/static/media/js.cf7522f436d6510da302.png",
+    "static/media/react.png": "/itsmyfolio/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/myphoto.jpeg": "/itsmyfolio/static/media/myphoto.5809ab1bc7f5fb1a6cb7.jpeg",
+    "static/media/FB.png": "/itsmyfolio/static/media/FB.8403c6f34696265923c7.png",
+    "index.html": "/itsmyfolio/index.html",
+    "main.a8f62500.css.map": "/itsmyfolio/static/css/main.a8f62500.css.map",
+    "main.f8480ff5.js.map": "/itsmyfolio/static/js/main.f8480ff5.js.map",
+    "787.ffc67994.chunk.js.map": "/itsmyfolio/static/js/787.ffc67994.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8f62500.css",
+    "static/js/main.f8480ff5.js"
+  ]
+}
